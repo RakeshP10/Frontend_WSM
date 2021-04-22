@@ -1,0 +1,124 @@
+.row-header{
+    margin:0px auto;
+    padding:0px auto;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color: #248EA6;
+    color: beige  ;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+}
+
+ul{
+    color: blanchedalmond;
+}
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background:#25C7D9 ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+}
+
+.media{
+    outline-width:2px; 
+    outline-style:solid;
+    background-color:lightcyan;
+    outline-color:blue;
+}
+
+.mediaheading{
+    font-size:40px;
+    margin:10px;
+    color:#0f0f0f;
+}
+
+.buttons{
+    margin:5px;
+    width:150px;
+    height:50px;
+}
+
+.mediaimage{
+    width:350px;
+    height:350px;
+}
+
+.mediabody{
+    font-size:20px;
+    margin:10px;
+    color:#0f0f0f;
+}
+
+
+/* */
+
+.cartmedia{
+    outline-width:2px; 
+    outline-style:solid;
+    background-color:lightslategray;
+    outline-color:black;
+}
+
+.cartmediaheading{
+    font-size:40px;
+    margin:10px;
+    color:#0f0f0f;
+}
+
+.cartbuttons{ 
+    align-items: center;
+    justify-content: center;
+}
+
+.cartmediaimage{
+    width:270px;
+    height:270px;
+}
+
+.cartmediabody{
+    font-size:20px;
+    margin:10px;
+    color:#0f0f0f;
+}
+
+.card{
+    width: 20rem;
+}
+
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0,0,0,0.253)!important;
+}
+
+.card-body{
+    padding: 4rem 0 !important;
+}
+
+.card-text{
+    font-size: 0.9rem;
+    padding: 0.4rem 1.9rem;
+}
+
+.container-fluid{
+    padding-top: 2rem;
+    padding-bottom: 4rem;
+}
+
+.linkfooter {
+    color: red;
+}
+
